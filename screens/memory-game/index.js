@@ -19,7 +19,7 @@ const doubleAndSort = (card, nums) => {
         .sort(() => Math.random() - 0.5) //sorting cards indexes randomly
         .map(card => { //mapping and assigning an id for each of them
             const newCard = {...card};
-            newCard['id'] = Math.random(); //should id be a string or whatever? i'm not sure            
+            newCard['id'] = Math.random(); //should ID be a string or whatever? i'm not sure            
             return newCard;
         }),
         ...(nums % 2 === 1 ? fillArray : '')]; //logic for filling cards so flex will not expand them. i should point that this works specifically for num of columns = 4
