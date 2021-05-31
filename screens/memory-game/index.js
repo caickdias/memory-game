@@ -6,7 +6,7 @@ import colors from '../../components/memory-game/colors';
 
 //importing cards and data with numbers info i used for cards
 import { Card, FalseCard } from '../../components/memory-game/Card/index'; 
-import data from '../../components/memory-game/cards';
+import data from '../../components/memory-game/data';
 
 //constants: fillArray for filling with transparent cards logic, default_nums for different numbers the game is starting with, min and max for selector logic
 const fillArray = [0, 0];
