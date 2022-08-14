@@ -38,7 +38,7 @@ npx expo start
 
 ## Help
 
-You should be fine using expo start to start the server
+You should be fine using 'expo start' to start the server
 
 ```
 expo start
@@ -49,6 +49,7 @@ but it's recommended to use local CLI instead (recommended in SDK 46 or higher) 
 ## Built with
 
 [Expo](https://expo.dev/): Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
+[React Native](https://reactnative.dev/): React Native is an open-source JavaScript framework, designed for building apps on multiple platforms like iOS, Android, and also web applications, utilizing the very same code base. 
 
 ## License
 
