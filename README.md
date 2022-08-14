@@ -52,4 +52,4 @@ but it's recommended to use local CLI instead (recommended in SDK 46 or higher) 
 
 ## License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
